@@ -1,1 +1,734 @@
-{}
+[
+  {
+    "kanji" : 
+    [
+      {
+        "n5": 
+        [
+          {
+            "huruf" : "一",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Satu"
+          },
+          {
+            "huruf" : "二",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Dua"
+          },
+          {
+            "huruf" : "三",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Tiga"
+          },
+          {
+            "huruf" : "四",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Empat"
+          },
+          {
+            "huruf" : "五",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Lima"
+          },
+          {
+            "huruf" : "六",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Enam"
+          },
+          {
+            "huruf" : "七",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Tujuh"
+          },
+          {
+            "huruf" : "八",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Delapan"
+          },
+          {
+            "huruf" : "九",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Sembilan"
+          },
+          {
+            "huruf" : "十",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Sepuluh"
+          },
+          {
+            "huruf" : "百",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Seratus"
+          },
+          {
+            "huruf" : "千",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Seribu"
+          },
+          {
+            "huruf" : "万",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : "Sepuluh ribu"
+          },
+          {
+          "huruf" : "日",
+          "kunyomi" : "",
+          "onyomi" : "",
+          "arti" : ""
+          },
+          {
+            "huruf" : "月",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "火",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "水",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "木",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "金",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "土",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "本",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "語",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "人",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "女",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "男",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+            "huruf" : "子",
+            "kunyomi" : "",
+            "onyomi" : "",
+            "arti" : ""
+          },
+          {
+          "huruf" : "友",
+          "kunyomi" : "",
+          "onyomi" : "",
+          "arti" : ""
+          },
+          {
+          "huruf" : "国",
+          "kunyomi" : "",
+          "onyomi" : "",
+          "arti" : ""
+          },
+          {
+          "huruf" : "学",
+          "kunyomi" : "",
+          "onyomi" : "",
+          "arti" : ""
+          },
+          {
+            "huruf": "校",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "小",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+          "huruf": "大",
+          "kunyomi": "",
+          "onyomi": "",
+          "arti": ""
+          },
+          {
+            "huruf": "少",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "多",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "時",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "分",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "名",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "前",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "山",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "川",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "花",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "魚",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "上",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "中",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "下",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "左",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },
+          {
+            "huruf": "外",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "雨",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "電",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "天",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "店",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "手",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          {
+            "huruf": "古",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "新",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "買",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "生",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "午",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "口",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "入",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "出",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "長",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "高",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "円",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "北",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "南",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "東",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "西",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "食",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "飲",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "駅",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "目",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "見",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "耳",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },     
+          {
+            "huruf": "聞",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },     
+          {
+            "huruf": "足",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "行",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },   
+          {
+            "huruf": "来",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },      
+          {
+            "huruf": "社",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "休",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "車",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "道",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },  
+          {
+            "huruf": "空",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },     
+          {
+            "huruf": "言",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "話",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "読",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "書",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "立",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },     
+          {
+            "huruf": "母",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },     
+          {
+            "huruf": "父",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },     
+          {
+            "huruf": "毎",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },      
+          {
+            "huruf": "気",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },     
+          {
+            "huruf": "白",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },     
+          {
+            "huruf": "何",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },      
+          {
+            "huruf": "週",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },      
+          {
+            "huruf": "間",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "半",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          },     
+          {
+            "huruf": "今",
+            "kunyomi": "",
+            "onyomi": "",
+            "arti": ""
+          }
+        ]
+      },
+      {
+        "n4" : 
+        [
+        
+        ]
+      }
+    ]
+  },
+  {
+    "hiragana" : 
+    [
+      {
+        "": 
+        [
+          {
+            "huruf": "",
+            "arti": "a"
+          },          
+          {
+            "huruf": "",
+            "arti": "i"
+          },          
+          {
+            "huruf": "",
+            "arti": "u"
+          },          
+          {
+            "huruf": "",
+            "arti": "e"
+          },          
+          {
+            "huruf": "",
+            "arti": "o"
+          },          
+          {
+            "huruf": "",
+            "arti": "ka"
+          },          
+          {
+            "huruf": "",
+            "arti": "ki"
+          },          
+          {
+            "huruf": "",
+            "arti": "ku"
+          },          
+          {
+            "huruf": "",
+            "arti": "ke"
+          },          
+          {
+            "huruf": "",
+            "arti": "ko"
+          },          
+          {
+            "huruf": "",
+            "arti": "sa"
+          },          
+          {
+            "huruf": "",
+            "arti": "shi"
+          },          
+          {
+            "huruf": "",
+            "arti": "su"
+          },          
+          {
+            "huruf": "",
+            "arti": "se"
+          },          
+          {
+            "huruf": "",
+            "arti": "so"
+          },          
+          {
+            "huruf": "",
+            "arti": "ta"
+          },          
+          {
+            "huruf": "",
+            "arti": "chi"
+          },          
+          {
+            "huruf": "",
+            "arti": "tsu"
+          },          
+          {
+            "huruf": "",
+            "arti": "te"
+          },          
+          {
+            "huruf": "",
+            "arti": "to"
+          },          
+          {
+            "huruf": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "",
+            "arti": ""
+          },          
+          {
+            "huruf": "",
+            "arti": ""
+          },         
+          {
+            "huruf": "",
+            "arti": ""
+          },      
+          {
+            "huruf": "",
+            "arti": ""
+          },        
+          {
+            "huruf": "",
+            "arti": ""
+          },    
+          {
+            "huruf": "",
+            "arti": ""
+          },
+        ]
+      },
+      {
+        
+      }
+    ]
+  }
+]
